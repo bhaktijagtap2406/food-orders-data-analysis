@@ -1,0 +1,122 @@
+[
+  {
+    "order_id": 301,
+    "date": "2024-03-01",
+    "restaurant": "Spice Hub",
+    "item": "Paneer Butter Masala",
+    "category": "Main Course",
+    "price": 220,
+    "quantity": 2,
+    "payment_mode": "UPI",
+    "customer_city": "Pune",
+    "delivery_time_min": 35
+  },
+  {
+    "order_id": 302,
+    "date": "2024-03-01",
+    "restaurant": "Burger Town",
+    "item": "Veg Burger",
+    "category": "Fast Food",
+    "price": 120,
+    "quantity": 3,
+    "payment_mode": "Cash",
+    "customer_city": "Mumbai",
+    "delivery_time_min": 25
+  },
+  {
+    "order_id": 303,
+    "date": "2024-03-02",
+    "restaurant": "Pizza Palace",
+    "item": "Margherita Pizza",
+    "category": "Fast Food",
+    "price": 300,
+    "quantity": 1,
+    "payment_mode": "Card",
+    "customer_city": "Pune",
+    "delivery_time_min": 40
+  },
+  {
+    "order_id": 304,
+    "date": "2024-03-02",
+    "restaurant": "Spice Hub ",
+    "item": "Dal Fry",
+    "category": "Main Course",
+    "price": 180,
+    "quantity": 2,
+    "payment_mode": "upi",
+    "customer_city": "Nagpur",
+    "delivery_time_min": 30
+  },
+  {
+    "order_id": 305,
+    "date": "2024-03-03",
+    "restaurant": "Burger Town",
+    "item": "French Fries",
+    "category": "Fast Food",
+    "price": 90,
+    "quantity": 4,
+    "payment_mode": "UPI",
+    "customer_city": "Mumbai",
+    "delivery_time_min": 20
+  },
+  {
+    "order_id": 306,
+    "date": "2024-03-03",
+    "restaurant": "Pizza Palace",
+    "item": "Farmhouse Pizza",
+    "category": "Fast Food",
+    "price": "450",
+    "quantity": 1,
+    "payment_mode": "CARD",
+    "customer_city": "Pune",
+    "delivery_time_min": 45
+  },
+  {
+    "order_id": 307,
+    "date": "2024-03-04",
+    "restaurant": "Spice Hub",
+    "item": "Jeera Rice",
+    "category": "Main Course",
+    "price": 150,
+    "quantity": 2,
+    "payment_mode": "Card",
+    "customer_city": "Mumbai",
+    "delivery_time_min": 28
+  },
+  {
+    "order_id": 306,
+    "date": "2024-03-03",
+    "restaurant": "Pizza Palace",
+    "item": "Farmhouse Pizza",
+    "category": "Fast Food",
+    "price": 450,
+    "quantity": 1,
+    "payment_mode": "card",
+    "customer_city": "Pune",
+    "delivery_time_min": 45
+  },
+  {
+    "order_id": 308,
+    "date": "2024-03-04",
+    "restaurant": "Burger Town",
+    "item": "Veg Burger",
+    "category": "Fast Food",
+    "price": 120,
+    "quantity": 0,
+    "payment_mode": "UPI",
+    "customer_city": "Pune",
+    "delivery_time_min": 22
+  },
+  {
+    "order_id": 309,
+    "date": "2024-03-05",
+    "restaurant": "Spice Hub",
+    "item": "Paneer Butter Masala",
+    "category": "Main Course",
+    "price": 220,
+    "quantity": 3,
+    "payment_mode": "Cash",
+    "customer_city": "Nagpur",
+    "delivery_time_min": 38
+  }
+]
