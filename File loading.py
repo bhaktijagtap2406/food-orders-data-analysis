@@ -1,3 +1,6 @@
+# Food Orders Data Analysis - Core Python
+# Author: Bhakti Jagtap
+
 import json
 
 #Load the json file
@@ -15,3 +18,4 @@ def display_order(data):
 #Load and display data
 data = load_data("food_orders.json")
 display_order(data)
+
