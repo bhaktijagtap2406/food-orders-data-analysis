@@ -1,3 +1,6 @@
+# Food Orders Data Analysis - Core Python
+# Author: Bhakti Jagtap
+
 import json
 
 def clean_data(data):
@@ -125,3 +128,4 @@ for order in data:
 average_delivery_time = total_time / len(data)
 
 print("Average Delivery Time:", round(average_delivery_time, 2), "minutes")
+
