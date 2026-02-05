@@ -56,7 +56,7 @@ All analysis was done using **basic Python loops and dictionaries**.
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - UPI is the most commonly used payment method
 - Pune generates the highest revenue among all cities
 - Fast food orders generally have lower delivery times
@@ -101,5 +101,5 @@ Computer Engineering & Data Science Student
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 This project was created to strengthen foundational data analysis skills using core Python before transitioning to advanced libraries.
