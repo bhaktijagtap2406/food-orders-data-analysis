@@ -1,6 +1,6 @@
-# 🍽️ Food Orders Data Analysis (Core Python)
+# Food Orders Data Analysis (Core Python)
 
-## 📌 About the Project
+##  About the Project
 This project performs **data cleaning and analysis** on food delivery order data using **Core Python only**.  
 The main goal is to understand how raw, messy data can be cleaned and analyzed to extract useful business insights.
 
@@ -8,7 +8,7 @@ No external libraries such as **pandas, NumPy, or matplotlib** are used.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset is stored in a JSON file:  
 
 
@@ -28,7 +28,7 @@ The dataset intentionally includes inconsistencies to simulate real-world data.
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 The following data cleaning steps were implemented:
 
 - Removed duplicate records using `order_id`
@@ -43,7 +43,7 @@ The cleaned dataset is saved as:
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 After cleaning the data, the following analyses were carried out:
 
 - Total sales calculation
@@ -64,13 +64,13 @@ All analysis was done using **basic Python loops and dictionaries**.
 
 ---
 
-## 🛠️ Built With
+##  Built With
 - Python (Core Python)
 - JSON
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository
 2. Place `food_orders.json` in the project directory
 3. Run the data cleaning script
@@ -79,7 +79,7 @@ All analysis was done using **basic Python loops and dictionaries**.
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 - Practical experience with data cleaning
 - Understanding real-world data issues
 - Strengthened core Python logic
@@ -87,7 +87,7 @@ All analysis was done using **basic Python loops and dictionaries**.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 - Use pandas for optimized data processing
 - Add visualizations using matplotlib
 - Perform deeper city-wise and restaurant-wise analysis
@@ -95,7 +95,7 @@ All analysis was done using **basic Python loops and dictionaries**.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Bhakti Jagtap**  
 Computer Engineering & Data Science Student
 
